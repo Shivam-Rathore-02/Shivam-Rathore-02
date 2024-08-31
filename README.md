@@ -1,4 +1,4 @@
-[![MasterHead](https://www.uat.edu/media/data-science-banner.png)](https://github.com/Shivam-Rathore-02)
+[![MasterHead](https://www.mygreatlearning.com/blog/what-is-data-science/)](https://github.com/Shivam-Rathore-02)
 <h1 align="center">Hi, I'm Shivam</h1>
 <h3 align="center">Data Analyst | Python & SQL Enthusiast | Passionate About Data-Driven Insights</h3>
 
