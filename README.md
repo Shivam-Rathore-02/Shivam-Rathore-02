@@ -1,4 +1,4 @@
-# Shivam Rathore
+[![MasterHead](https://www.mygreatlearning.com/blog/what-is-data-science/)]
 
 **Business Analyst | Data Analyst | Business Intelligence Developer Intern**  
 Pursuing Post Graduate Diploma in Management (PGDM) with a specialization in Corporate Skills and Business Analytics. Passionate about leveraging data-driven insights to solve complex business problems.
