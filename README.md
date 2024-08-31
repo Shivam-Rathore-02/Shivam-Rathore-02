@@ -4,7 +4,7 @@
 <h3 align="center">Data Analyst | Python & SQL Enthusiast | Passionate About Data-Driven Insights</h3>
 
 <p align="center">
-<img src="https://www.mygreatlearning.com/blog/wp-content/uploads/2019/09/What-is-data-science-2.jpg" alt="MasterHead" width="300px">
+<img src="https://www.mygreatlearning.com/blog/wp-content/uploads/2019/09/What-is-data-science-2.jpg" alt="MasterHead" width="100px">
 </p>
 
  
