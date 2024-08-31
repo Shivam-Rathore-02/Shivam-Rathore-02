@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Shivam-Rathore-02">
-    <img src="https://www.mygreatlearning.com/blog/wp-content/uploads/2019/09/What-is-data-science-2.jpg" alt="MasterHead" width="400" height="300">
+    <img src="https://www.mygreatlearning.com/blog/wp-content/uploads/2019/09/What-is-data-science-2.jpg" alt="MasterHead" width="600" height="200">
   </a>
 </p>
 
