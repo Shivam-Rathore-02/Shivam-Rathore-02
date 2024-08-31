@@ -1,11 +1,12 @@
 <p align="center">
   <a href="https://github.com/Shivam-Rathore-02">
-    <img src="https://www.mygreatlearning.com/blog/wp-content/uploads/2019/09/What-is-data-science-2.jpg" alt="MasterHead" width="600">
+    <img src="https://www.mygreatlearning.com/blog/wp-content/uploads/2019/09/What-is-data-science-2.jpg" alt="MasterHead" width="400" height="300">
   </a>
 </p>
 
 <h1 align="center">Hi, I'm Shivam</h1>
 <h3 align="center">Data Analyst | Python & SQL Enthusiast | Passionate About Data-Driven Insights</h3>
+
 
 Pursuing Post Graduate Diploma in Management (PGDM) with a specialization in Corporate Skills and Business Analytics. Passionate about leveraging data-driven insights to solve complex business problems.
 
