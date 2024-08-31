@@ -1,4 +1,8 @@
-[![MasterHead](https://www.mygreatlearning.com/blog/what-is-data-science/)]
+[![MasterHead](https://www.uat.edu/media/data-science-banner.png)](https://github.com/Shivam-Rathore-02)
+<h1 align="center">Hi, I'm Shivam</h1>
+<h3 align="center">Data Analyst | Python & SQL Enthusiast | Passionate About Data-Driven Insights</h3>
+
+<p align="center">
 
 **Business Analyst | Data Analyst | Business Intelligence Developer Intern**  
 Pursuing Post Graduate Diploma in Management (PGDM) with a specialization in Corporate Skills and Business Analytics. Passionate about leveraging data-driven insights to solve complex business problems.
