@@ -76,8 +76,8 @@ Pursuing Post Graduate Diploma in Management (PGDM) with a specialization in Cor
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/shivam-rathore-business-analyst)
-- 📧 Email: ba.shivamrathore@gmail.com
-- 📱 Phone: +91 8979108929
+
+
 
 ---
 
