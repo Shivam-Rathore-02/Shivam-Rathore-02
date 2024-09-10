@@ -7,6 +7,12 @@
 <h1 align="center">Hi, I'm Shivam</h1>
 <h3 align="center">Data Analyst | Python & SQL Enthusiast | Passionate About Data-Driven Insights</h3>
 
+<p align="center">
+  <a href="https://github.com/Shivam-Rathore-02">
+    <img src="https://i.pinimg.com/originals/28/2a/55/282a553eb2c2df8568763a558e8921b9.gif" alt="MasterHead" width="600" height="350">
+  </a>
+</p>
+
 
 Pursuing Post Graduate Diploma in Management (PGDM) with a specialization in Corporate Skills and Business Analytics. Passionate about leveraging data-driven insights to solve complex business problems.
 
