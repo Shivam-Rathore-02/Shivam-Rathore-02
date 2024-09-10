@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Shivam-Rathore-02">
-    <img src="https://i0.wp.com/mir-s3-cdn-cf.behance.net/project_modules/fs/d5f77c104128975.5f5bdc0d6d7b6.gif?ssl=1" alt="MasterHead" width="700" height="350">
+    <img src="https://i0.wp.com/mir-s3-cdn-cf.behance.net/project_modules/fs/d5f77c104128975.5f5bdc0d6d7b6.gif?ssl=1" alt="MasterHead" width="700" height="370">
   </a>
 </p>
 
